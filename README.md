@@ -26,6 +26,7 @@ i like coding and im learning stuff :P
 ### i'm learning / wanting to learn
 - scss
 - rails
+- flutter
 
 and idk i probably forgot alot of stuff.
 

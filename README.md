@@ -1,5 +1,5 @@
 ### hewwo!
-im franz (froggit). i mean, froggit was taken so i'm **frogggit**. anyways,
+im franz (froggit). (i was frogggit before now im gattaa) anyways,
 i like coding and im learning stuff :P
 
 ## languages 

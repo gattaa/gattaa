@@ -1,6 +1,7 @@
 ### hi!
 im franz (froggit). (i was frogggit before now im gattaa) anyways,
 i like coding ig.
+(most of my repositories are private, i'll have the courage to make em public someday)
 
 ## languages 
 ### i'm loving

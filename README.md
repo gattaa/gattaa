@@ -1,12 +1,14 @@
-### hewwo!
+### hi!
 im franz (froggit). (i was frogggit before now im gattaa) anyways,
-i like coding and im learning stuff :P
+i like coding ig.
 
 ## languages 
 ### i'm loving
 - python
 - javascript / node
 - html / css
+- java/kotlin
+- go
 
 ### i'm learning / wanting to learn
 - ruby
@@ -22,6 +24,8 @@ i like coding and im learning stuff :P
 - react
 - tailwindcss
 - firebase
+- discord.js
+- discord.kyìt (ty jakey)
 
 ### i'm learning / wanting to learn
 - scss
@@ -31,7 +35,7 @@ i like coding and im learning stuff :P
 and idk i probably forgot alot of stuff.
 
 
-rn i'm using vscode and atom as my primary code editors :P
+rn i'm using vscode/intellijidea/pycharm as my primary code editors 
 
 reach me on my email if u need ig
 
